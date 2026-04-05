@@ -41,7 +41,7 @@ A developer tooling project built to serve mid-market engineering teams running 
 the teams that find LaunchDarkly expensive and Unleash under-supported.
 
 ```
-Stack        .NET 8  ·  ASP.NET Core  ·  Azure (Key Vault · App Insights · Container Apps)
+Stack        .NET 10  ·  ASP.NET Core  ·  Azure (Key Vault · App Insights · Container Apps)
 AI Layer     Azure OpenAI — natural language flag health analysis · stale flag detection
 SDK          Production .NET SDK ships alongside the service
 Model        Open core · MIT licensed · self-hostable
